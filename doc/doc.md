@@ -29,3 +29,13 @@ Projektmitarbeiter: Finn Nothdurfter, Ella Köll, Elmira Parfjonova
 Auftraggeber: Professor Landerer + Professor Netzer
 
 Anwender/Kunde: Professor Landerer + Professor Netzer
+
+
+
+
+Projektumfeld und risikoanalyse
+
+![image](https://github.com/user-attachments/assets/27d05562-7f13-4372-8302-78138c8357f3)
+
+![image](https://github.com/user-attachments/assets/1ab10af5-901b-412f-b688-5880004151cb)
+
